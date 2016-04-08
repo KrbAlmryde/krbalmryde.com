@@ -1,0 +1,9 @@
+$("header").load("html/header.html");
+$("#projects").load("projects/projects.html");
+    $("#niftiViewer").load("projects/brainView/niftiviewer.html");
+    $("#darksky").load("projects/DarkSky/darksky.html");
+    $("#wallcology").load("projects/wallcology/wallcology.html");
+$("#publications").load("publications/publications.html");
+$("#curriculumvitae").load("html/curriculumvitae.html");
+$("#about").load("html/about.html");
+$("footer").load("html/footer.html");

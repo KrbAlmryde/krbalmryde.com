@@ -1,0 +1,15 @@
+projects/*
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.class
+*.nii*
+*.pdf
+*.pyc
+*.o
+*.gz
+*.zip
+*.log
